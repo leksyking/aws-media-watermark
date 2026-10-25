@@ -1,0 +1,7 @@
+app/node_modules
+app/package-lock.json
+
+
+ffmpeg-layer/bin/*
+ffmpeg-layer/node_modules
+ffmpeg-layer/package-lock.json
